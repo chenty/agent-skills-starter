@@ -1,0 +1,3 @@
+interface:
+  display_name: "博主长文转图文卡片"
+  short_description: "多轮共创将长文拆解为结构化社交媒体图文卡与视觉提示"

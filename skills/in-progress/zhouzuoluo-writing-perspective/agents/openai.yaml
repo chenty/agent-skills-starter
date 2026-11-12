@@ -1,0 +1,5 @@
+interface:
+  display_name: "粥左罗写作与思维视角"
+  short_description: "以粥左罗公开经验与思维模型拆解写作、赚钱与自律问题"
+policy:
+  allow_implicit_invocation: false
