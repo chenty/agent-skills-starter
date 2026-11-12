@@ -1,0 +1,14 @@
+{
+  "name": "agent-skills-starter",
+  "version": "0.1.0",
+  "description": "Replace with a concise description of this skills collection.",
+  "author": {
+    "name": "Replace with maintainer name"
+  },
+  "repository": "https://github.com/OWNER/REPOSITORY",
+  "license": "UNLICENSED",
+  "keywords": ["skills", "agents"],
+  "skills": [
+    "./skills/engineering/create-skill"
+  ]
+}

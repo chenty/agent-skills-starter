@@ -1,0 +1,16 @@
+{
+  "name": "agent-skills-starter",
+  "owner": {
+    "name": "Replace with maintainer name"
+  },
+  "description": "Replace with a short description of this skills repository.",
+  "plugins": [
+    {
+      "name": "agent-skills-starter",
+      "source": "./",
+      "description": "Replace with a short plugin description.",
+      "category": "productivity",
+      "keywords": ["skills", "agents"]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "agent-skills-starter",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A structured, multi-harness agent skills repository",
+  "license": "UNLICENSED",
+  "scripts": {
+    "check": "node scripts/check-structure.mjs"
+  }
+}
