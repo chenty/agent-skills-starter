@@ -1,5 +1,10 @@
 ---
 name: viral-template-designer
+version: "1.0.0"
+display_name: "爆款模板设计师"
+display_name_en: "Viral Template Designer"
+description_zh: "根据主题和参考图设计可复制的爆款UGC模板，输出创意评分、Seedream提示词、短视频脚本和发布文案。"
+description_en: "Design reusable viral UGC templates from a topic and reference images, with scored concepts, Seedream prompts, short-video scripts, and publishing copy."
 description: 根据用户输入的主题和参考图（人物、场景、道具），设计可复制的爆款UGC模板。当用户想要Seedream 5.5创意、可直接复制的提示词、短视频脚本、解说文案和小红书文案，或询问顶级自媒体玩家如何思考选题以建立个人IP时使用。输出带评分的创意、Seedream 5.5提示词、75秒脚本和发布文案。
 ---
 
